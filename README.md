@@ -5,7 +5,7 @@ Welcome to the official repository for the **Zaritech Uno Starter Kit** — a cu
 This kit eliminates unnecessary wire clutter and focuses on essential, high-impact modular components to help students, makers, and engineers master embedded systems, sensor integration, and micro-game development.
 
 ---
-![Zaritech Uno Starter Kit Components](kit_contents.png)
+![Zaritech Uno Starter Kit Components](kit_contents.jpeg)
 ## 📦 Kit Contents
 The kit is composed of premium-grade hardware components optimized for stable power distribution and clean signals:
 *   **Microcontroller:** 1x Arduino Uno R3 (Compatible)
